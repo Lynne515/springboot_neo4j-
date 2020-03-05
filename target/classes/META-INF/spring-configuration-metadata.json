@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource",
+      "type": "com.kg.config.Neo4jProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.uri",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.uri",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kg.config.Neo4jProperties",
+      "name": "neo4j.datasource.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
